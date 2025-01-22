@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jadon-aman/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jadon-aman/leetcode/tree/master/0035-search-insert-position) |
+| [0898-transpose-matrix](https://github.com/jadon-aman/leetcode/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jadon-aman/leetcode/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/jadon-aman/leetcode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/jadon-aman/leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
