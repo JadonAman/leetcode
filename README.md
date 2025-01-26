@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/jadon-aman/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0898-transpose-matrix](https://github.com/jadon-aman/leetcode/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jadon-aman/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1791-richest-customer-wealth](https://github.com/jadon-aman/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jadon-aman/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/jadon-aman/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jadon-aman/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/jadon-aman/leetcode/tree/master/0898-transpose-matrix) |
+| [1791-richest-customer-wealth](https://github.com/jadon-aman/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
