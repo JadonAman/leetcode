@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/jadon-aman/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/jadon-aman/leetcode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/jadon-aman/leetcode/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
