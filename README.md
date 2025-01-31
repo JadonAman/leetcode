@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/jadon-aman/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jadon-aman/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/jadon-aman/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/jadon-aman/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jadon-aman/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadon-aman/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jadon-aman/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/jadon-aman/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/jadon-aman/leetcode/tree/master/0344-reverse-string) |
 ## Greedy
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jadon-aman/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jadon-aman/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/jadon-aman/leetcode/tree/master/0242-valid-anagram) |
