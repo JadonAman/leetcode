@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jadon-aman/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/jadon-aman/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/jadon-aman/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/jadon-aman/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jadon-aman/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jadon-aman/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jadon-aman/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jadon-aman/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/jadon-aman/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jadon-aman/leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/jadon-aman/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jadon-aman/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jadon-aman/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/jadon-aman/leetcode/tree/master/0242-valid-anagram) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jadon-aman/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jadon-aman/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jadon-aman/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -131,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jadon-aman/leetcode/tree/master/0050-powx-n) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jadon-aman/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
