@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/jadon-aman/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jadon-aman/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/jadon-aman/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/jadon-aman/leetcode/tree/master/0520-detect-capital) |
+| [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jadon-aman/leetcode/tree/master/0136-single-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Number Theory
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/jadon-aman/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Linked List
 |  |
 | ------- |
