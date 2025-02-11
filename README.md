@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/jadon-aman/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jadon-aman/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/jadon-aman/leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/jadon-aman/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jadon-aman/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2491-smallest-even-multiple](https://github.com/jadon-aman/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Array
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/jadon-aman/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadon-aman/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jadon-aman/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/jadon-aman/leetcode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/jadon-aman/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/jadon-aman/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/jadon-aman/leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/jadon-aman/leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/jadon-aman/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
