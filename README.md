@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/jadon-aman/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/jadon-aman/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jadon-aman/leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/jadon-aman/leetcode/tree/master/0231-power-of-two) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jadon-aman/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2491-smallest-even-multiple](https://github.com/jadon-aman/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Array
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jadon-aman/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/jadon-aman/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/jadon-aman/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Number Theory
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/jadon-aman/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jadon-aman/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/jadon-aman/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/jadon-aman/leetcode/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |
