@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/jadon-aman/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadon-aman/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/jadon-aman/leetcode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/jadon-aman/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadon-aman/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadon-aman/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/jadon-aman/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jadon-aman/leetcode/tree/master/0414-third-maximum-number) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jadon-aman/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Dynamic Programming
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/jadon-aman/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jadon-aman/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/jadon-aman/leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/jadon-aman/leetcode/tree/master/0520-detect-capital) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/jadon-aman/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jadon-aman/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jadon-aman/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/jadon-aman/leetcode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Number Theory
 |  |
