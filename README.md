@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/jadon-aman/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/jadon-aman/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jadon-aman/leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jadon-aman/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jadon-aman/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jadon-aman/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -231,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/jadon-aman/leetcode/tree/master/0164-maximum-gap) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jadon-aman/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jadon-aman/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
