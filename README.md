@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/jadon-aman/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jadon-aman/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/jadon-aman/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/jadon-aman/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jadon-aman/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jadon-aman/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/jadon-aman/leetcode/tree/master/1013-fibonacci-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/jadon-aman/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jadon-aman/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/jadon-aman/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/jadon-aman/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jadon-aman/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jadon-aman/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jadon-aman/leetcode/tree/master/0268-missing-number) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jadon-aman/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/jadon-aman/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/jadon-aman/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jadon-aman/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jadon-aman/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/jadon-aman/leetcode/tree/master/0344-reverse-string) |
