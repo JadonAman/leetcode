@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/jadon-aman/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/jadon-aman/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jadon-aman/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/jadon-aman/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jadon-aman/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jadon-aman/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/jadon-aman/leetcode/tree/master/0189-rotate-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jadon-aman/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/jadon-aman/leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/jadon-aman/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jadon-aman/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jadon-aman/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jadon-aman/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jadon-aman/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jadon-aman/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jadon-aman/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/jadon-aman/leetcode/tree/master/0073-set-matrix-zeroes) |
