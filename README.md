@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jadon-aman/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jadon-aman/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/jadon-aman/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jadon-aman/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/jadon-aman/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jadon-aman/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
