@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/jadon-aman/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/jadon-aman/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jadon-aman/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/jadon-aman/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/jadon-aman/leetcode/tree/master/0048-rotate-image) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jadon-aman/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jadon-aman/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/jadon-aman/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/jadon-aman/leetcode/tree/master/0268-missing-number) |
