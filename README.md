@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jadon-aman/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jadon-aman/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/jadon-aman/leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/jadon-aman/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jadon-aman/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jadon-aman/leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/jadon-aman/leetcode/tree/master/0520-detect-capital) |
+| [1250-longest-common-subsequence](https://github.com/jadon-aman/leetcode/tree/master/1250-longest-common-subsequence) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
