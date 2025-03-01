@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jadon-aman/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jadon-aman/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jadon-aman/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/jadon-aman/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jadon-aman/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/jadon-aman/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadon-aman/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jadon-aman/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/jadon-aman/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/jadon-aman/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/jadon-aman/leetcode/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jadon-aman/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/jadon-aman/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
