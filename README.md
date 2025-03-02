@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jadon-aman/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jadon-aman/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/jadon-aman/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jadon-aman/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jadon-aman/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/jadon-aman/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jadon-aman/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jadon-aman/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadon-aman/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jadon-aman/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/jadon-aman/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jadon-aman/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
 |  |
 | ------- |
