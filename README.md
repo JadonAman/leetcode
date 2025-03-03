@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1791-richest-customer-wealth](https://github.com/jadon-aman/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jadon-aman/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jadon-aman/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jadon-aman/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jadon-aman/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/jadon-aman/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jadon-aman/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/jadon-aman/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jadon-aman/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadon-aman/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jadon-aman/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jadon-aman/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/jadon-aman/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jadon-aman/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/jadon-aman/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/jadon-aman/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/jadon-aman/leetcode/tree/master/0898-transpose-matrix) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/jadon-aman/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jadon-aman/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/jadon-aman/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
