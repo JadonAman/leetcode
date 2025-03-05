@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/jadon-aman/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadon-aman/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadon-aman/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/jadon-aman/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jadon-aman/leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/jadon-aman/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/jadon-aman/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jadon-aman/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jadon-aman/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/jadon-aman/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jadon-aman/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jadon-aman/leetcode/tree/master/0392-is-subsequence) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jadon-aman/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/jadon-aman/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Linked List
