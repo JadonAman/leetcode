@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jadon-aman/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jadon-aman/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/jadon-aman/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2649-count-total-number-of-colored-cells](https://github.com/jadon-aman/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Array
 |  |
 | ------- |
