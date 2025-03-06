@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jadon-aman/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/jadon-aman/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jadon-aman/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/jadon-aman/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jadon-aman/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jadon-aman/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jadon-aman/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jadon-aman/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/jadon-aman/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/jadon-aman/leetcode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/jadon-aman/leetcode/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
