@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jadon-aman/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jadon-aman/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/jadon-aman/leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3778-transform-array-by-parity](https://github.com/jadon-aman/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/jadon-aman/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jadon-aman/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/jadon-aman/leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
