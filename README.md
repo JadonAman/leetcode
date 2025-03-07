@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2610-closest-prime-numbers-in-range](https://github.com/jadon-aman/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jadon-aman/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3785-find-the-number-of-copy-arrays](https://github.com/jadon-aman/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2836-neither-minimum-nor-maximum](https://github.com/jadon-aman/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3778-transform-array-by-parity](https://github.com/jadon-aman/leetcode/tree/master/3778-transform-array-by-parity) |
+| [3785-find-the-number-of-copy-arrays](https://github.com/jadon-aman/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Hash Table
 |  |
 | ------- |
