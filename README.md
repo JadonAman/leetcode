@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2836-neither-minimum-nor-maximum](https://github.com/jadon-aman/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/jadon-aman/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/jadon-aman/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/jadon-aman/leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3778-transform-array-by-parity](https://github.com/jadon-aman/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/jadon-aman/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/jadon-aman/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/jadon-aman/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadon-aman/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/jadon-aman/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jadon-aman/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/jadon-aman/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3643-zero-array-transformation-ii](https://github.com/jadon-aman/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
 | ------- |
