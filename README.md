@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-partition-array-according-to-given-pivot](https://github.com/jadon-aman/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jadon-aman/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jadon-aman/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/jadon-aman/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/jadon-aman/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadon-aman/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/jadon-aman/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/jadon-aman/leetcode/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jadon-aman/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2478-longest-nice-subarray](https://github.com/jadon-aman/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Number Theory
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadon-aman/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jadon-aman/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jadon-aman/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/jadon-aman/leetcode/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/jadon-aman/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jadon-aman/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
