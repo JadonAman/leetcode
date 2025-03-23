@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1170-shortest-common-supersequence](https://github.com/jadon-aman/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/jadon-aman/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jadon-aman/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jadon-aman/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -400,12 +401,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jadon-aman/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadon-aman/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/jadon-aman/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jadon-aman/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jadon-aman/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadon-aman/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
 |  |
@@ -415,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/jadon-aman/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/jadon-aman/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
