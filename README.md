@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/jadon-aman/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jadon-aman/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jadon-aman/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadon-aman/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2491-smallest-even-multiple](https://github.com/jadon-aman/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jadon-aman/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jadon-aman/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1791-richest-customer-wealth](https://github.com/jadon-aman/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jadon-aman/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jadon-aman/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadon-aman/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadon-aman/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jadon-aman/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jadon-aman/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/jadon-aman/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/jadon-aman/leetcode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/jadon-aman/leetcode/tree/master/1791-richest-customer-wealth) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadon-aman/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadon-aman/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/jadon-aman/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jadon-aman/leetcode/tree/master/0414-third-maximum-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadon-aman/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jadon-aman/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3430-count-days-without-meetings](https://github.com/jadon-aman/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jadon-aman/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
