@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2491-smallest-even-multiple](https://github.com/jadon-aman/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jadon-aman/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jadon-aman/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jadon-aman/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/jadon-aman/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Array
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jadon-aman/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jadon-aman/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jadon-aman/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jadon-aman/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/jadon-aman/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jadon-aman/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/jadon-aman/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/jadon-aman/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jadon-aman/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jadon-aman/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jadon-aman/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2836-neither-minimum-nor-maximum](https://github.com/jadon-aman/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jadon-aman/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jadon-aman/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/jadon-aman/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jadon-aman/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3778-transform-array-by-parity](https://github.com/jadon-aman/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/jadon-aman/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jadon-aman/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jadon-aman/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Recursion
 |  |
 | ------- |
@@ -385,10 +390,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/jadon-aman/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jadon-aman/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jadon-aman/leetcode/tree/master/0234-palindrome-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jadon-aman/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jadon-aman/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jadon-aman/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Union Find
 |  |
 | ------- |
