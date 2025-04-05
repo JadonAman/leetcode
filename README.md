@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/jadon-aman/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jadon-aman/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jadon-aman/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jadon-aman/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadon-aman/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2491-smallest-even-multiple](https://github.com/jadon-aman/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/jadon-aman/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1791-richest-customer-wealth](https://github.com/jadon-aman/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jadon-aman/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jadon-aman/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jadon-aman/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jadon-aman/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadon-aman/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadon-aman/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/jadon-aman/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jadon-aman/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/jadon-aman/leetcode/tree/master/0389-find-the-difference) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jadon-aman/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jadon-aman/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/jadon-aman/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -483,4 +486,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/jadon-aman/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jadon-aman/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jadon-aman/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jadon-aman/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jadon-aman/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jadon-aman/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
