@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadon-aman/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/jadon-aman/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/jadon-aman/leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/jadon-aman/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jadon-aman/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jadon-aman/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jadon-aman/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jadon-aman/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0368-largest-divisible-subset](https://github.com/jadon-aman/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/jadon-aman/leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/jadon-aman/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jadon-aman/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/jadon-aman/leetcode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/jadon-aman/leetcode/tree/master/1170-shortest-common-supersequence) |
