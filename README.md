@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jadon-aman/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jadon-aman/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jadon-aman/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jadon-aman/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jadon-aman/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadon-aman/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadon-aman/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jadon-aman/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jadon-aman/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jadon-aman/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jadon-aman/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadon-aman/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jadon-aman/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/jadon-aman/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/jadon-aman/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jadon-aman/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jadon-aman/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/jadon-aman/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadon-aman/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
