@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadon-aman/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/jadon-aman/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/jadon-aman/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/jadon-aman/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jadon-aman/leetcode/tree/master/0151-reverse-words-in-a-string) |
