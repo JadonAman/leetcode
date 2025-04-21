@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jadon-aman/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadon-aman/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadon-aman/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/jadon-aman/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/jadon-aman/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jadon-aman/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/jadon-aman/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jadon-aman/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/jadon-aman/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2249-count-the-hidden-sequences](https://github.com/jadon-aman/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jadon-aman/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/jadon-aman/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Design
