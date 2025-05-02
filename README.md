@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/jadon-aman/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/jadon-aman/leetcode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/jadon-aman/leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/jadon-aman/leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/jadon-aman/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jadon-aman/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jadon-aman/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/jadon-aman/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/jadon-aman/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/jadon-aman/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/jadon-aman/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jadon-aman/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/jadon-aman/leetcode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/jadon-aman/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jadon-aman/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0520-detect-capital](https://github.com/jadon-aman/leetcode/tree/master/0520-detect-capital) |
 | [0768-partition-labels](https://github.com/jadon-aman/leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/jadon-aman/leetcode/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/jadon-aman/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/jadon-aman/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jadon-aman/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
